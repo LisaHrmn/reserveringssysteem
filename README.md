@@ -1,4 +1,4 @@
-Opdracht om een reserveringssysteem te maken voor een opdrachtgever. Werkend met back end en front end. 
+Opdracht om een reserveringssysteem te maken voor een opdrachtgever. Geprogrammeerd in PHP, werkend met back end en front end. 
 
 Installeer lokaal om het in actie te zien of bekijk de volgende video:
-https://youtu.be/oIortMu3nLA 
+https://youtu.be/-XWQf_J0y5I
